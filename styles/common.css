@@ -1,0 +1,9 @@
+/* Common styles on all pages */
+
+body{
+    background: rgb(24,23,23);
+    background: -moz-linear-gradient(90deg, rgba(24,23,23,1) 0%, rgba(65,67,68,1) 5%, rgba(24,23,23,1) 80%);
+    background: -webkit-linear-gradient(90deg, rgba(24,23,23,1) 0%, rgba(65,67,68,1) 5%, rgba(24,23,23,1) 80%);
+    background: linear-gradient(90deg, rgba(24,23,23,1) 0%, rgba(65,67,68,1) 5%, rgba(24,23,23,1) 80%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#181717",endColorstr="#181717",GradientType=1);
+}
